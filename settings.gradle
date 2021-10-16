@@ -6,6 +6,5 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "FookCalc"
 include ':app'
 include ':FookCalc'
