@@ -5,7 +5,7 @@
 [![](https://jitpack.io/v/ibrahim-ekinci/FookCalc.svg)](https://jitpack.io/#ibrahim-ekinci/FookCalc)
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
-<a href = "https://github.com/iamjosephmj/flinger/stargazers"><img src = "https://img.shields.io/github/stars/ibrahim-ekinci/FookCalc" /></a>
+<a href = "https://github.com/ibrahim-ekinci/FookCalc/stargazers"><img src = "https://img.shields.io/github/stars/ibrahim-ekinci/FookCalc" /></a>
 
 ## What is FookCalc?
 <p>  
